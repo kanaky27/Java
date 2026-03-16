@@ -21,7 +21,6 @@ public class Smaller_Numbers_Than_Current {
         }
         return count;
     }
-
 }
 
 
